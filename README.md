@@ -216,6 +216,14 @@ Project Outcome
 
 ![Home](reports/screenshots/Random_forest.png)
 
+![Home](reports/screenshots/Streamlit_home_page.png)
+
+![Home](reports/screenshots/High_compatible_result.png)
+
+![Home](reports/screenshots/Moderately_compatible_result.png)
+
+![Home](reports/screenshots/Poor_match.png)
+
 
 
 Built an end-to-end Machine Learning solution that combines fashion domain knowledge with predictive modeling to evaluate outfit compatibility and provide explainable recommendations through an interactive web application.
