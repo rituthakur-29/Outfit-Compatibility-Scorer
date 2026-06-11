@@ -212,4 +212,10 @@ Joblib
 Streamlit
 Project Outcome
 
+## Application screenshots
+
+![Home](reports/screenshots/Random_forest.png)
+
+
+
 Built an end-to-end Machine Learning solution that combines fashion domain knowledge with predictive modeling to evaluate outfit compatibility and provide explainable recommendations through an interactive web application.
